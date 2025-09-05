@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "'Business Multi-Page Template'",
+      "name": "'Corporate Multi-Page Template'",
       "cluster": 1,
       "pages": [
         {
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "name": "'Course Listing'",
+      "name": "Multi-Purpose Content Template",
       "cluster": 2,
       "pages": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Corporate Website Template",
+      "name": "'Corporate Website Template'",
       "cluster": 3,
       "pages": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "'Corporate Multi-Section Layout'",
+      "name": "'Event Listing'",
       "cluster": 4,
       "pages": [
         {
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "name": "\"Dashboard Template\"",
+      "name": "'Corporate Multi-Section Layout'",
       "cluster": 5,
       "pages": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "'Portfolio Showcase'",
+      "name": "'Landing Page'",
       "cluster": 6,
       "pages": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "'Blog Overview'",
+      "name": "'News Portal'",
       "cluster": 7,
       "pages": [
         {
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "name": "'Business Homepage'",
+      "name": "Business Overview Page",
       "cluster": 8,
       "pages": [
         {
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "name": "'Article Listing Page'",
+      "name": "'Blog/News Layout'",
       "cluster": 9,
       "pages": [
         {
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "name": "'Corporate Multi-Section Layout'",
+      "name": "'Corporate Multi-Section Page'",
       "cluster": 10,
       "pages": [
         {
